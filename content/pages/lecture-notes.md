@@ -121,7 +121,7 @@ Duflo
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Public finance (I) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec9))
+Public finance (I) ([PDF]({{< baseurl >}}/resources/lec9))
 {{< tdclose >}}
 {{< tdopen >}}
 Olken
@@ -133,7 +133,7 @@ Olken
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Public finance (II) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec10))
+Public finance (II) ([PDF]({{< baseurl >}}/resources/lec10))
 {{< tdclose >}}
 {{< tdopen >}}
 Olken
@@ -169,7 +169,7 @@ Duflo
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Firms (I) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec13))
+Firms (I) ([PDF]({{< baseurl >}}/resources/lec13))
 {{< tdclose >}}
 {{< tdopen >}}
 Olken
@@ -181,7 +181,7 @@ Olken
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Firms (II) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec14))
+Firms (II) ([PDF]({{< baseurl >}}/resources/lec14))
 {{< tdclose >}}
 {{< tdopen >}}
 Olken
@@ -193,7 +193,7 @@ Olken
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Technology (I) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec15))
+Technology (I) ([PDF]({{< baseurl >}}/resources/lec15))
 {{< tdclose >}}
 {{< tdopen >}}
 Olken
@@ -205,7 +205,7 @@ Olken
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Technology (II) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec16))
+Technology (II) ([PDF]({{< baseurl >}}/resources/lec16))
 {{< tdclose >}}
 {{< tdopen >}}
 Olken
@@ -217,7 +217,7 @@ Olken
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Labor (I) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec17))
+Labor (I) ([PDF]({{< baseurl >}}/resources/lec17))
 {{< tdclose >}}
 {{< tdopen >}}
 Olken
@@ -229,7 +229,7 @@ Olken
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Labor (II) and migration (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec18))
+Labor (II) and migration ([PDF]({{< baseurl >}}/resources/lec18))
 {{< tdclose >}}
 {{< tdopen >}}
 Olken
